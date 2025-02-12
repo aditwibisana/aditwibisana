@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bayu Adhitya <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm52emdqdWJxcHdmZXEyNzhmanp6Y3J1djkweDFyd3NwYTM0bWY1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AgQA13YwynqfxyiLAa/giphy.gif" width="85"></h1>
+<h1 align="center">Hi, I'm Bayu Adhitya <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRjOHNnNzhycHg5dmMxcHJ0eXFoeDBqdDdyanduZjNlNWIzNGk5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lHNs0JWxMZY134gSPq/giphy.gif" width="85"></h1>
 
 ### 🚀 DevOps Engineer | IT Infrastructure Engineer | Cloud Enthusiast
 
