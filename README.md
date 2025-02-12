@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Bayu Adhitya <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF5ZHp3d3MxNjFoOXVwcmZuc3lzc2gwZXpibHpudWFiYXRyN2ZqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" width="85"></h1>
 
-### 🚀 DevOps Engineer | IT Infrastructure Specialist | Cloud Enthusiast
-
-![Header Image](https://source.unsplash.com/1600x400/?technology,cloud,devops)
+### 🚀 DevOps Engineer | IT Infrastructure Engineer | Cloud Enthusiast
 
 ---
 
 ## 🌟 About Me
 
-- 💡 Passionate about **automation, cloud computing, and IT infrastructure**.
+- 💡 Passionate about **Back End Engineer, DevOps Roles, and IT infrastructure**.
 - 🔥 Currently working with **CI/CD pipelines, Kubernetes, and Cloud Platforms**.
 - 🎯 Looking to collaborate on **cloud solutions, DevOps strategies, and infrastructure automation**.
 - ✨ Always learning and improving DevOps best practices!
