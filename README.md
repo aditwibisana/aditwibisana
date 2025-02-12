@@ -35,7 +35,7 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dicky7&theme=gruvbox&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=aditwibisana&theme=gruvbox&show_icons=true)
 
 ---
 
