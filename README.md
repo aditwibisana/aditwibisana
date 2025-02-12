@@ -38,7 +38,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?aditwibisana=aditwibisana&show_icons=true&theme=tokyonight" width="400">
+<img src="https://github-readme-stats.vercel.app/api?=aditwibisana&show_icons=true&theme=tokyonight" width="400">
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditwibisana&theme=tokyonight" width="400">
